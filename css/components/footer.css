@@ -1,0 +1,26 @@
+.footer {
+  background-color: #dedede;
+  padding: 0px; /* pushes the element to the middle of the image */
+  background-size: cover; /* crops the image */
+  vertical-align: middle;
+}
+
+.footer i {
+  color: #c10000;
+  font-size: 30px;
+}
+
+.footer ul {
+  list-style: none;
+  padding: 0px;
+  text-align: center;
+}
+
+.footer ul >li {
+  display: inline-block;
+  padding: 0px 0px;
+}
+
+.footer p {
+  text-align: left;
+}
